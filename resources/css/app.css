@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.btn-danger {
+    background-color: #dc3545;
+    color: #fff;
+}
+.btn-delete {
+    background-color: red;
+    color: white;
+}
